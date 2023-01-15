@@ -1,0 +1,109 @@
+{
+  "uid" : "52ba9d302953abde",
+  "name" : "checkPaymentSuccessWithMoreProducts",
+  "fullName" : "tests.ThankYouTest.checkPaymentSuccessWithMoreProducts",
+  "historyId" : "3d29799d88d4136d398024eb816a3c9b",
+  "time" : {
+    "start" : 1673536240955,
+    "stop" : 1673536241828,
+    "duration" : 873
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536238103,
+      "stop" : 1673536239767,
+      "duration" : 1664
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1673536243904,
+      "stop" : 1673536244106,
+      "duration" : 202
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536241830,
+      "stop" : 1673536241988,
+      "duration" : 158
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ThankYouTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ThankYouTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkPaymentSuccessWithMoreProducts"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ThankYouTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52ba9d302953abde.json",
+  "parameterValues" : [ ]
+}

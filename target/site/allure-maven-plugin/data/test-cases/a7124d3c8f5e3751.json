@@ -1,0 +1,93 @@
+{
+  "uid" : "a7124d3c8f5e3751",
+  "name" : "verifySocialUrl",
+  "fullName" : "tests.FooterTest.verifySocialUrl",
+  "historyId" : "df12c9024d24c07297a4a1fad2adce8c",
+  "time" : {
+    "start" : 1673536200208,
+    "stop" : 1673536200286,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536194831,
+      "stop" : 1673536200139,
+      "duration" : 5308
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536200288,
+      "stop" : 1673536200499,
+      "duration" : 211
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.FooterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FooterTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySocialUrl"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.FooterTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7124d3c8f5e3751.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "73e3c75c0d067003",
+  "name" : "Verify Info Of Each Products Item On Cart Page",
+  "fullName" : "tests.CartTest.verifyInfoOfEachProductsItemOnCartPage",
+  "historyId" : "a4cf01db6404b61db6d7b0ec8ad2a24b",
+  "time" : {
+    "start" : 1673536222472,
+    "stop" : 1673536222814,
+    "duration" : 342
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536218362,
+      "stop" : 1673536222285,
+      "duration" : 3923
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536224484,
+      "stop" : 1673536224665,
+      "duration" : 181
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.CartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.CartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyInfoOfEachProductsItemOnCartPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.CartTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73e3c75c0d067003.json",
+  "parameterValues" : [ ]
+}

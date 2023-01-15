@@ -1,0 +1,93 @@
+{
+  "uid" : "55d25992f845253a",
+  "name" : "verifyAddToCartButtonOnProductDetail",
+  "fullName" : "tests.ProductDetailTest.verifyAddToCartButtonOnProductDetail",
+  "historyId" : "ed12ece6ce67a65e66148e3b29d0e2dc",
+  "time" : {
+    "start" : 1673536211814,
+    "stop" : 1673536213955,
+    "duration" : 2141
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536209799,
+      "stop" : 1673536211811,
+      "duration" : 2012
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536218184,
+      "stop" : 1673536218362,
+      "duration" : 178
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ProductDetailTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ProductDetailTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyAddToCartButtonOnProductDetail"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ProductDetailTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55d25992f845253a.json",
+  "parameterValues" : [ ]
+}

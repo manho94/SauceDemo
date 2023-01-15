@@ -1,0 +1,109 @@
+{
+  "uid" : "38fc71d78b18b8fd",
+  "name" : "verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts",
+  "fullName" : "tests.CheckOutStep2Test.verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts",
+  "historyId" : "c4901f2943013928c77bce3cfe3338ba",
+  "time" : {
+    "start" : 1673536235827,
+    "stop" : 1673536237406,
+    "duration" : 1579
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536224666,
+      "stop" : 1673536226894,
+      "duration" : 2228
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1673536237879,
+      "stop" : 1673536238102,
+      "duration" : 223
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536237407,
+      "stop" : 1673536237878,
+      "duration" : 471
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.CheckOutStep2Test"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.CheckOutStep2Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.CheckOutStep2Test"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38fc71d78b18b8fd.json",
+  "parameterValues" : [ ]
+}

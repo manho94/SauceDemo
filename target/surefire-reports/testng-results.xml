@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="42" passed="42" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-12T22:09:30 ICT" name="Regression" finished-at="2023-01-12T22:10:44 ICT" duration-ms="73833">
+    <groups>
+    </groups>
+    <test started-at="2023-01-12T22:09:30 ICT" name="Chrome" finished-at="2023-01-12T22:10:44 ICT" duration-ms="73833">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:31 ICT" name="openBrowser" finished-at="2023-01-12T22:09:35 ICT" duration-ms="4564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:35 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:39 ICT" duration-ms="3908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:39 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:40 ICT" duration-ms="387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username and password do not match any user in this service]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:40 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:40 ICT" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:40 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:40 ICT" duration-ms="298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username and password do not match any user in this service]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:40 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:41 ICT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:41 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:41 ICT" duration-ms="277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username and password do not match any user in this service]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:41 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:41 ICT" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:41 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:42 ICT" duration-ms="240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:42 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:42 ICT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:42 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:42 ICT" duration-ms="255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Password is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:42 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:43 ICT" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:43 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:43 ICT" duration-ms="219" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Username is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:43 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:44 ICT" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withInvalidCredential(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:44 ICT" name="withInvalidCredential" data-provider="invalidCredential" finished-at="2023-01-12T22:09:44 ICT" duration-ms="275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Epic sadface: Sorry, this user has been locked out.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withInvalidCredential -->
+        <test-method is-config="true" signature="openLoginURL()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:44 ICT" name="openLoginURL" finished-at="2023-01-12T22:09:44 ICT" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginURL -->
+        <test-method signature="withValidCredential()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:44 ICT" name="withValidCredential" finished-at="2023-01-12T22:09:45 ICT" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withValidCredential -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@51751e5f]" started-at="2023-01-12T22:09:45 ICT" name="closeBrowser" finished-at="2023-01-12T22:09:45 ICT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.ThankYouTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:38 ICT" name="openBrowser" finished-at="2023-01-12T22:10:39 ICT" duration-ms="1664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="checkPaymentSuccessWith1Product()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:39 ICT" name="checkPaymentSuccessWith1Product" finished-at="2023-01-12T22:10:40 ICT" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPaymentSuccessWith1Product -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:40 ICT" name="tearDown" finished-at="2023-01-12T22:10:40 ICT" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="checkPaymentSuccessWithMoreProducts()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:40 ICT" name="checkPaymentSuccessWithMoreProducts" finished-at="2023-01-12T22:10:41 ICT" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPaymentSuccessWithMoreProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:41 ICT" name="tearDown" finished-at="2023-01-12T22:10:41 ICT" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="clickOnBackHomeButtonAfterPayment()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:41 ICT" name="clickOnBackHomeButtonAfterPayment" finished-at="2023-01-12T22:10:42 ICT" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBackHomeButtonAfterPayment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:42 ICT" name="tearDown" finished-at="2023-01-12T22:10:42 ICT" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="checkPaymentWhenCancelOnCheckOutStep2()[pri:10, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:42 ICT" name="checkPaymentWhenCancelOnCheckOutStep2" finished-at="2023-01-12T22:10:43 ICT" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPaymentWhenCancelOnCheckOutStep2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:43 ICT" name="tearDown" finished-at="2023-01-12T22:10:43 ICT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ThankYouTest@79a1728c]" started-at="2023-01-12T22:10:43 ICT" name="closeBrowser" finished-at="2023-01-12T22:10:44 ICT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.ThankYouTest -->
+      <class name="tests.FooterTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.FooterTest@31fc71ab]" started-at="2023-01-12T22:09:54 ICT" name="openBrowser" finished-at="2023-01-12T22:10:00 ICT" duration-ms="5309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyCopyWritingCorrect()[pri:0, instance:tests.FooterTest@31fc71ab]" started-at="2023-01-12T22:10:00 ICT" name="verifyCopyWritingCorrect" finished-at="2023-01-12T22:10:00 ICT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCopyWritingCorrect -->
+        <test-method signature="verifyFooterImageDisplay()[pri:0, instance:tests.FooterTest@31fc71ab]" started-at="2023-01-12T22:10:00 ICT" name="verifyFooterImageDisplay" finished-at="2023-01-12T22:10:00 ICT" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFooterImageDisplay -->
+        <test-method signature="verifySocialUrl()[pri:0, instance:tests.FooterTest@31fc71ab]" started-at="2023-01-12T22:10:00 ICT" name="verifySocialUrl" finished-at="2023-01-12T22:10:00 ICT" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialUrl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FooterTest@31fc71ab]" started-at="2023-01-12T22:10:00 ICT" name="tearDown" finished-at="2023-01-12T22:10:00 ICT" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FooterTest -->
+      <class name="tests.CartTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:18 ICT" name="openBrowser" finished-at="2023-01-12T22:10:22 ICT" duration-ms="3923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyElementsOnCartPage()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:22 ICT" name="verifyElementsOnCartPage" description="Verify All Elements Is Displayed On Cart Page" finished-at="2023-01-12T22:10:22 ICT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyElementsOnCartPage -->
+        <test-method signature="verifyInfoOfEachProductsItemOnCartPage()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:22 ICT" name="verifyInfoOfEachProductsItemOnCartPage" description="Verify Info Of Each Products Item On Cart Page" finished-at="2023-01-12T22:10:22 ICT" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInfoOfEachProductsItemOnCartPage -->
+        <test-method signature="verifyWhenClickingOnCheckoutBtn()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:22 ICT" name="verifyWhenClickingOnCheckoutBtn" description="Verify When Clicking On CheckOut Button" finished-at="2023-01-12T22:10:22 ICT" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhenClickingOnCheckoutBtn -->
+        <test-method signature="verifyWhenClickingOnContinueShoppingButton()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:22 ICT" name="verifyWhenClickingOnContinueShoppingButton" description="Verify When Clicking on Continue Shopping Button" finished-at="2023-01-12T22:10:23 ICT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhenClickingOnContinueShoppingButton -->
+        <test-method signature="verifyWhenClickingOnProductNameOnCartPage()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:23 ICT" name="verifyWhenClickingOnProductNameOnCartPage" description="Verify When Clicking on Product Name on Cart Page" finished-at="2023-01-12T22:10:23 ICT" duration-ms="840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhenClickingOnProductNameOnCartPage -->
+        <test-method signature="verifyWhenClickingOnRemoveBtn()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:23 ICT" name="verifyWhenClickingOnRemoveBtn" description="Verify When Clicking On Remove Button" finished-at="2023-01-12T22:10:24 ICT" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhenClickingOnRemoveBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CartTest@12db3386]" started-at="2023-01-12T22:10:24 ICT" name="tearDown" finished-at="2023-01-12T22:10:24 ICT" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CartTest -->
+      <class name="tests.CheckOutStep2Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.CheckOutStep2Test@4078695f]" started-at="2023-01-12T22:10:24 ICT" name="openBrowser" finished-at="2023-01-12T22:10:26 ICT" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyInfoOnCheckOutStep2WhenCheckOutWith1Product()[pri:0, instance:tests.CheckOutStep2Test@4078695f]" started-at="2023-01-12T22:10:26 ICT" name="verifyInfoOnCheckOutStep2WhenCheckOutWith1Product" finished-at="2023-01-12T22:10:27 ICT" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInfoOnCheckOutStep2WhenCheckOutWith1Product -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CheckOutStep2Test@4078695f]" started-at="2023-01-12T22:10:27 ICT" name="tearDown" finished-at="2023-01-12T22:10:35 ICT" duration-ms="8136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts()[pri:0, instance:tests.CheckOutStep2Test@4078695f]" started-at="2023-01-12T22:10:35 ICT" name="verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts" finished-at="2023-01-12T22:10:37 ICT" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CheckOutStep2Test@4078695f]" started-at="2023-01-12T22:10:37 ICT" name="tearDown" finished-at="2023-01-12T22:10:37 ICT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CheckOutStep2Test@4078695f]" started-at="2023-01-12T22:10:37 ICT" name="closeBrowser" finished-at="2023-01-12T22:10:38 ICT" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.CheckOutStep2Test -->
+      <class name="tests.ProductListTest">
+        <test-method is-config="true" signature="openProductListURL()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:00 ICT" name="openProductListURL" finished-at="2023-01-12T22:10:02 ICT" duration-ms="1706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openProductListURL -->
+        <test-method signature="verifyAddToCartButtonOnProductList()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:02 ICT" name="verifyAddToCartButtonOnProductList" finished-at="2023-01-12T22:10:04 ICT" duration-ms="1879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartButtonOnProductList -->
+        <test-method signature="verifyDetailURLOfEachProduct()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:04 ICT" name="verifyDetailURLOfEachProduct" finished-at="2023-01-12T22:10:05 ICT" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDetailURLOfEachProduct -->
+        <test-method signature="verifyInformationOfEachProduct()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:05 ICT" name="verifyInformationOfEachProduct" finished-at="2023-01-12T22:10:06 ICT" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInformationOfEachProduct -->
+        <test-method signature="verifyOptionOnSortDropdown()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:06 ICT" name="verifyOptionOnSortDropdown" finished-at="2023-01-12T22:10:06 ICT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOptionOnSortDropdown -->
+        <test-method signature="verifyRemoveButtonOnProductList()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:06 ICT" name="verifyRemoveButtonOnProductList" finished-at="2023-01-12T22:10:08 ICT" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRemoveButtonOnProductList -->
+        <test-method signature="verifySortNameAToZ()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:08 ICT" name="verifySortNameAToZ" finished-at="2023-01-12T22:10:08 ICT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortNameAToZ -->
+        <test-method signature="verifySortNameZToA()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:08 ICT" name="verifySortNameZToA" finished-at="2023-01-12T22:10:09 ICT" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortNameZToA -->
+        <test-method signature="verifySortPriceHighToLow()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:09 ICT" name="verifySortPriceHighToLow" finished-at="2023-01-12T22:10:09 ICT" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortPriceHighToLow -->
+        <test-method signature="verifySortPriceLowToHigh()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:09 ICT" name="verifySortPriceLowToHigh" finished-at="2023-01-12T22:10:09 ICT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortPriceLowToHigh -->
+        <test-method signature="verifyTotalNumberOfProduct()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:09 ICT" name="verifyTotalNumberOfProduct" finished-at="2023-01-12T22:10:09 ICT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalNumberOfProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ProductListTest@71391b3f]" started-at="2023-01-12T22:10:09 ICT" name="tearDown" finished-at="2023-01-12T22:10:09 ICT" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ProductListTest -->
+      <class name="tests.ProductDetailTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.ProductDetailTest@2cfbeac4]" started-at="2023-01-12T22:10:09 ICT" name="openBrowser" finished-at="2023-01-12T22:10:11 ICT" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyAddToCartButtonOnProductDetail()[pri:0, instance:tests.ProductDetailTest@2cfbeac4]" started-at="2023-01-12T22:10:11 ICT" name="verifyAddToCartButtonOnProductDetail" finished-at="2023-01-12T22:10:13 ICT" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartButtonOnProductDetail -->
+        <test-method signature="verifyProductInfoInPdpPage()[pri:0, instance:tests.ProductDetailTest@2cfbeac4]" started-at="2023-01-12T22:10:13 ICT" name="verifyProductInfoInPdpPage" finished-at="2023-01-12T22:10:16 ICT" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoInPdpPage -->
+        <test-method signature="verifyRemoveBtnOnProductDetail()[pri:0, instance:tests.ProductDetailTest@2cfbeac4]" started-at="2023-01-12T22:10:16 ICT" name="verifyRemoveBtnOnProductDetail" finished-at="2023-01-12T22:10:18 ICT" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRemoveBtnOnProductDetail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ProductDetailTest@2cfbeac4]" started-at="2023-01-12T22:10:18 ICT" name="tearDown" finished-at="2023-01-12T22:10:18 ICT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ProductDetailTest -->
+      <class name="tests.NavigationTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:45 ICT" name="openBrowser" finished-at="2023-01-12T22:09:47 ICT" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyAllElementOnNavigationPage()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:47 ICT" name="verifyAllElementOnNavigationPage" finished-at="2023-01-12T22:09:47 ICT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllElementOnNavigationPage -->
+        <test-method signature="verifyRedirectOfAboutMenu()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:47 ICT" name="verifyRedirectOfAboutMenu" finished-at="2023-01-12T22:09:53 ICT" duration-ms="5347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRedirectOfAboutMenu -->
+        <test-method signature="verifyRedirectOfAllItemsMenu()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:53 ICT" name="verifyRedirectOfAllItemsMenu" finished-at="2023-01-12T22:09:53 ICT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRedirectOfAllItemsMenu -->
+        <test-method signature="verifyRedirectOfCartIcon()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:53 ICT" name="verifyRedirectOfCartIcon" finished-at="2023-01-12T22:09:53 ICT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRedirectOfCartIcon -->
+        <test-method signature="verifyResetAppState()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:53 ICT" name="verifyResetAppState" finished-at="2023-01-12T22:09:54 ICT" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResetAppState -->
+        <test-method signature="verifyLogout()[pri:20, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:54 ICT" name="verifyLogout" finished-at="2023-01-12T22:09:54 ICT" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.NavigationTest@6fca2a8f]" started-at="2023-01-12T22:09:54 ICT" name="closeBrowser" finished-at="2023-01-12T22:09:54 ICT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.NavigationTest -->
+    </test> <!-- Chrome -->
+  </suite> <!-- Regression -->
+</testng-results>

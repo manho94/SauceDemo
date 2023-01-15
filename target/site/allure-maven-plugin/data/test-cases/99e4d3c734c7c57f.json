@@ -1,0 +1,93 @@
+{
+  "uid" : "99e4d3c734c7c57f",
+  "name" : "Verify When Clicking On Remove Button",
+  "fullName" : "tests.CartTest.verifyWhenClickingOnRemoveBtn",
+  "historyId" : "a6b637da10b06ab883ead049c6683021",
+  "time" : {
+    "start" : 1673536223943,
+    "stop" : 1673536224483,
+    "duration" : 540
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536218362,
+      "stop" : 1673536222285,
+      "duration" : 3923
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536224484,
+      "stop" : 1673536224665,
+      "duration" : 181
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.CartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.CartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyWhenClickingOnRemoveBtn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.CartTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99e4d3c734c7c57f.json",
+  "parameterValues" : [ ]
+}

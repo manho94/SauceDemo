@@ -1,0 +1,93 @@
+{
+  "uid" : "7f923f2a93289a0d",
+  "name" : "verifySortPriceLowToHigh",
+  "fullName" : "tests.ProductListTest.verifySortPriceLowToHigh",
+  "historyId" : "8f36b5ed888c42c6691951c6bdb06479",
+  "time" : {
+    "start" : 1673536209330,
+    "stop" : 1673536209605,
+    "duration" : 275
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openProductListURL",
+    "time" : {
+      "start" : 1673536200500,
+      "stop" : 1673536202205,
+      "duration" : 1705
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536209616,
+      "stop" : 1673536209799,
+      "duration" : 183
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ProductListTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ProductListTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySortPriceLowToHigh"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ProductListTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f923f2a93289a0d.json",
+  "parameterValues" : [ ]
+}

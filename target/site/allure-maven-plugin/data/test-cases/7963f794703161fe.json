@@ -1,0 +1,93 @@
+{
+  "uid" : "7963f794703161fe",
+  "name" : "verifyProductInfoInPdpPage",
+  "fullName" : "tests.ProductDetailTest.verifyProductInfoInPdpPage",
+  "historyId" : "b309f60501ab99b945b5e9cd33a9d47a",
+  "time" : {
+    "start" : 1673536213959,
+    "stop" : 1673536216197,
+    "duration" : 2238
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536209799,
+      "stop" : 1673536211811,
+      "duration" : 2012
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1673536218184,
+      "stop" : 1673536218362,
+      "duration" : 178
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ProductDetailTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ProductDetailTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyProductInfoInPdpPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ProductDetailTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7963f794703161fe.json",
+  "parameterValues" : [ ]
+}

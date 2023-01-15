@@ -1,0 +1,517 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "HoaNang",
+    "children" : [ {
+      "name" : "24364@HoaNang.main(1)",
+      "children" : [ {
+        "name" : "verifyLogout",
+        "uid" : "bff6b0a0d3d6e8f7",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536194131,
+          "stop" : 1673536194578,
+          "duration" : 447
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyRedirectOfAboutMenu",
+        "uid" : "9d2d7b3de884fbd9",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536187728,
+          "stop" : 1673536193074,
+          "duration" : 5346
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "8d08f6cd18da079",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536183303,
+          "stop" : 1673536183519,
+          "duration" : 216
+        },
+        "flaky" : false,
+        "parameters" : [ "", "", "Epic sadface: Username is required" ]
+      }, {
+        "name" : "Verify Info Of Each Products Item On Cart Page",
+        "uid" : "73e3c75c0d067003",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536222472,
+          "stop" : 1673536222814,
+          "duration" : 342
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyInfoOnCheckOutStep2WhenCheckOutWith1Product",
+        "uid" : "b7bb49dbe412465f",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536226896,
+          "stop" : 1673536227686,
+          "duration" : 790
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "9eda22298f130d6c",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536184008,
+          "stop" : 1673536184281,
+          "duration" : 273
+        },
+        "flaky" : false,
+        "parameters" : [ "locked_out_user", "secret_sauce", "Epic sadface: Sorry, this user has been locked out." ]
+      }, {
+        "name" : "Verify When Clicking on Continue Shopping Button",
+        "uid" : "188ba503fe718f45",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536222955,
+          "stop" : 1673536223098,
+          "duration" : 143
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify All Elements Is Displayed On Cart Page",
+        "uid" : "5ca14663e61b0351",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536222287,
+          "stop" : 1673536222470,
+          "duration" : 183
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify When Clicking on Product Name on Cart Page",
+        "uid" : "4efb4d5acdb1b38a",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536223101,
+          "stop" : 1673536223940,
+          "duration" : 839
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkPaymentWhenCancelOnCheckOutStep2",
+        "uid" : "b52464544bee91e2",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536242943,
+          "stop" : 1673536243703,
+          "duration" : 760
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyRedirectOfAllItemsMenu",
+        "uid" : "8c430b7155a085d9",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536193080,
+          "stop" : 1673536193277,
+          "duration" : 197
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySortNameAToZ",
+        "uid" : "3b4474adf7391edc",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536208507,
+          "stop" : 1673536208755,
+          "duration" : 248
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyResetAppState",
+        "uid" : "ed8106aeca6efc99",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536193366,
+          "stop" : 1673536194128,
+          "duration" : 762
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyRemoveBtnOnProductDetail",
+        "uid" : "a0fdd816f89be6a5",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536216200,
+          "stop" : 1673536218182,
+          "duration" : 1982
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyFooterImageDisplay",
+        "uid" : "f9c5736d54e32902",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536200173,
+          "stop" : 1673536200205,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyInformationOfEachProduct",
+        "uid" : "6ed4eab72467d3a4",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536205912,
+          "stop" : 1673536206606,
+          "duration" : 694
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify When Clicking On CheckOut Button",
+        "uid" : "184df9d8b1f36362",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536222817,
+          "stop" : 1673536222953,
+          "duration" : 136
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCopyWritingCorrect",
+        "uid" : "7f4304e1cded1354",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536200141,
+          "stop" : 1673536200170,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySortNameZToA",
+        "uid" : "c8effc7b6b24f858",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536208758,
+          "stop" : 1673536209040,
+          "duration" : 282
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "aee2a5688674d0bf",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536179843,
+          "stop" : 1673536180202,
+          "duration" : 359
+        },
+        "flaky" : false,
+        "parameters" : [ "standard_user1", "secret_sauce", "Epic sadface: Username and password do not match any user in this service" ]
+      }, {
+        "name" : "verifyAddToCartButtonOnProductDetail",
+        "uid" : "55d25992f845253a",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536211814,
+          "stop" : 1673536213955,
+          "duration" : 2141
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withValidCredential",
+        "uid" : "3d9a547ccf0ea01d",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536184921,
+          "stop" : 1673536185232,
+          "duration" : 311
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkPaymentSuccessWithMoreProducts",
+        "uid" : "52ba9d302953abde",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536240955,
+          "stop" : 1673536241828,
+          "duration" : 873
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts",
+        "uid" : "38fc71d78b18b8fd",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536235827,
+          "stop" : 1673536237406,
+          "duration" : 1579
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySocialUrl",
+        "uid" : "a7124d3c8f5e3751",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536200208,
+          "stop" : 1673536200286,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "164bdf4e8a003420",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536182598,
+          "stop" : 1673536182851,
+          "duration" : 253
+        },
+        "flaky" : false,
+        "parameters" : [ "standard_user", "", "Epic sadface: Password is required" ]
+      }, {
+        "name" : "verifySortPriceHighToLow",
+        "uid" : "47b47ea2defd56f0",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536209042,
+          "stop" : 1673536209328,
+          "duration" : 286
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "c00deb894ea4b640",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536181779,
+          "stop" : 1673536182018,
+          "duration" : 239
+        },
+        "flaky" : false,
+        "parameters" : [ "", "secret_sauce", "Epic sadface: Username is required" ]
+      }, {
+        "name" : "verifyRemoveButtonOnProductList",
+        "uid" : "bd41c655fbfdd58f",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536206738,
+          "stop" : 1673536208504,
+          "duration" : 1766
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyOptionOnSortDropdown",
+        "uid" : "9a1eca8fc5672ef6",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536206608,
+          "stop" : 1673536206735,
+          "duration" : 127
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkPaymentSuccessWith1Product",
+        "uid" : "3fb0e859a51635d8",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536239769,
+          "stop" : 1673536240679,
+          "duration" : 910
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDetailURLOfEachProduct",
+        "uid" : "cf977becd9b7b5bc",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536204087,
+          "stop" : 1673536205906,
+          "duration" : 1819
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clickOnBackHomeButtonAfterPayment",
+        "uid" : "148da7550605feec",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536241992,
+          "stop" : 1673536242823,
+          "duration" : 831
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "effe5e5b85da441a",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536180567,
+          "stop" : 1673536180862,
+          "duration" : 295
+        },
+        "flaky" : false,
+        "parameters" : [ "standard_user", "secret_sauce1", "Epic sadface: Username and password do not match any user in this service" ]
+      }, {
+        "name" : "verifyTotalNumberOfProduct",
+        "uid" : "1b8f1ad853c5c79b",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536209607,
+          "stop" : 1673536209615,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "withInvalidCredential",
+        "uid" : "b3d0407cbe6b6c43",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536181117,
+          "stop" : 1673536181391,
+          "duration" : 274
+        },
+        "flaky" : false,
+        "parameters" : [ "standard_user1", "secret_sauce1", "Epic sadface: Username and password do not match any user in this service" ]
+      }, {
+        "name" : "verifyRedirectOfCartIcon",
+        "uid" : "e1257cb119446cf9",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536193280,
+          "stop" : 1673536193362,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySortPriceLowToHigh",
+        "uid" : "7f923f2a93289a0d",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536209330,
+          "stop" : 1673536209605,
+          "duration" : 275
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify When Clicking On Remove Button",
+        "uid" : "99e4d3c734c7c57f",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536223943,
+          "stop" : 1673536224483,
+          "duration" : 540
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAllElementOnNavigationPage",
+        "uid" : "9216933b1014efa9",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536187651,
+          "stop" : 1673536187723,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAddToCartButtonOnProductList",
+        "uid" : "2c9e47e1e5bbc413",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536202207,
+          "stop" : 1673536204084,
+          "duration" : 1877
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyProductInfoInPdpPage",
+        "uid" : "7963f794703161fe",
+        "parentUid" : "3217c39b8530f67aeb424f92ba338480",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673536213959,
+          "stop" : 1673536216197,
+          "duration" : 2238
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3217c39b8530f67aeb424f92ba338480"
+    } ],
+    "uid" : "bfde74697801398566ced172d70216a5"
+  } ]
+}

@@ -1,0 +1,18 @@
+<suite name="Regression">
+    <listeners>
+        <listener class-name="common.TestListener"></listener>
+    </listeners>
+    <test name="Chrome">
+        <classes>
+            <class name="tests.LoginTest" />
+            <class name="tests.NavigationTest" />
+            <class name="tests.FooterTest" />
+            <class name="tests.ProductListTest" />
+            <class name="tests.ProductDetailTest" />
+            <class name="tests.CartTest" />
+            <class name ="tests.CheckOutStep2Test"/>
+            <class name = "tests.ThankYouTest" />
+        </classes>
+
+    </test>
+</suite>

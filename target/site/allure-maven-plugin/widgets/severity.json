@@ -1,0 +1,421 @@
+[ {
+  "uid" : "52ba9d302953abde",
+  "name" : "checkPaymentSuccessWithMoreProducts",
+  "time" : {
+    "start" : 1673536240955,
+    "stop" : 1673536241828,
+    "duration" : 873
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b8f1ad853c5c79b",
+  "name" : "verifyTotalNumberOfProduct",
+  "time" : {
+    "start" : 1673536209607,
+    "stop" : 1673536209615,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9216933b1014efa9",
+  "name" : "verifyAllElementOnNavigationPage",
+  "time" : {
+    "start" : 1673536187651,
+    "stop" : 1673536187723,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ed4eab72467d3a4",
+  "name" : "verifyInformationOfEachProduct",
+  "time" : {
+    "start" : 1673536205912,
+    "stop" : 1673536206606,
+    "duration" : 694
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd41c655fbfdd58f",
+  "name" : "verifyRemoveButtonOnProductList",
+  "time" : {
+    "start" : 1673536206738,
+    "stop" : 1673536208504,
+    "duration" : 1766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "148da7550605feec",
+  "name" : "clickOnBackHomeButtonAfterPayment",
+  "time" : {
+    "start" : 1673536241992,
+    "stop" : 1673536242823,
+    "duration" : 831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "164bdf4e8a003420",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536182598,
+    "stop" : 1673536182851,
+    "duration" : 253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b52464544bee91e2",
+  "name" : "checkPaymentWhenCancelOnCheckOutStep2",
+  "time" : {
+    "start" : 1673536242943,
+    "stop" : 1673536243703,
+    "duration" : 760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c430b7155a085d9",
+  "name" : "verifyRedirectOfAllItemsMenu",
+  "time" : {
+    "start" : 1673536193080,
+    "stop" : 1673536193277,
+    "duration" : 197
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47b47ea2defd56f0",
+  "name" : "verifySortPriceHighToLow",
+  "time" : {
+    "start" : 1673536209042,
+    "stop" : 1673536209328,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4efb4d5acdb1b38a",
+  "name" : "Verify When Clicking on Product Name on Cart Page",
+  "time" : {
+    "start" : 1673536223101,
+    "stop" : 1673536223940,
+    "duration" : 839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf977becd9b7b5bc",
+  "name" : "verifyDetailURLOfEachProduct",
+  "time" : {
+    "start" : 1673536204087,
+    "stop" : 1673536205906,
+    "duration" : 1819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f923f2a93289a0d",
+  "name" : "verifySortPriceLowToHigh",
+  "time" : {
+    "start" : 1673536209330,
+    "stop" : 1673536209605,
+    "duration" : 275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a1eca8fc5672ef6",
+  "name" : "verifyOptionOnSortDropdown",
+  "time" : {
+    "start" : 1673536206608,
+    "stop" : 1673536206735,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1257cb119446cf9",
+  "name" : "verifyRedirectOfCartIcon",
+  "time" : {
+    "start" : 1673536193280,
+    "stop" : 1673536193362,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "effe5e5b85da441a",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536180567,
+    "stop" : 1673536180862,
+    "duration" : 295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "188ba503fe718f45",
+  "name" : "Verify When Clicking on Continue Shopping Button",
+  "time" : {
+    "start" : 1673536222955,
+    "stop" : 1673536223098,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c9e47e1e5bbc413",
+  "name" : "verifyAddToCartButtonOnProductList",
+  "time" : {
+    "start" : 1673536202207,
+    "stop" : 1673536204084,
+    "duration" : 1877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d2d7b3de884fbd9",
+  "name" : "verifyRedirectOfAboutMenu",
+  "time" : {
+    "start" : 1673536187728,
+    "stop" : 1673536193074,
+    "duration" : 5346
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bff6b0a0d3d6e8f7",
+  "name" : "verifyLogout",
+  "time" : {
+    "start" : 1673536194131,
+    "stop" : 1673536194578,
+    "duration" : 447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d08f6cd18da079",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536183303,
+    "stop" : 1673536183519,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3d0407cbe6b6c43",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536181117,
+    "stop" : 1673536181391,
+    "duration" : 274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7963f794703161fe",
+  "name" : "verifyProductInfoInPdpPage",
+  "time" : {
+    "start" : 1673536213959,
+    "stop" : 1673536216197,
+    "duration" : 2238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99e4d3c734c7c57f",
+  "name" : "Verify When Clicking On Remove Button",
+  "time" : {
+    "start" : 1673536223943,
+    "stop" : 1673536224483,
+    "duration" : 540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ca14663e61b0351",
+  "name" : "Verify All Elements Is Displayed On Cart Page",
+  "time" : {
+    "start" : 1673536222287,
+    "stop" : 1673536222470,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7124d3c8f5e3751",
+  "name" : "verifySocialUrl",
+  "time" : {
+    "start" : 1673536200208,
+    "stop" : 1673536200286,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed8106aeca6efc99",
+  "name" : "verifyResetAppState",
+  "time" : {
+    "start" : 1673536193366,
+    "stop" : 1673536194128,
+    "duration" : 762
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7bb49dbe412465f",
+  "name" : "verifyInfoOnCheckOutStep2WhenCheckOutWith1Product",
+  "time" : {
+    "start" : 1673536226896,
+    "stop" : 1673536227686,
+    "duration" : 790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9c5736d54e32902",
+  "name" : "verifyFooterImageDisplay",
+  "time" : {
+    "start" : 1673536200173,
+    "stop" : 1673536200205,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aee2a5688674d0bf",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536179843,
+    "stop" : 1673536180202,
+    "duration" : 359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0fdd816f89be6a5",
+  "name" : "verifyRemoveBtnOnProductDetail",
+  "time" : {
+    "start" : 1673536216200,
+    "stop" : 1673536218182,
+    "duration" : 1982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9eda22298f130d6c",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536184008,
+    "stop" : 1673536184281,
+    "duration" : 273
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c00deb894ea4b640",
+  "name" : "withInvalidCredential",
+  "time" : {
+    "start" : 1673536181779,
+    "stop" : 1673536182018,
+    "duration" : 239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b4474adf7391edc",
+  "name" : "verifySortNameAToZ",
+  "time" : {
+    "start" : 1673536208507,
+    "stop" : 1673536208755,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fb0e859a51635d8",
+  "name" : "checkPaymentSuccessWith1Product",
+  "time" : {
+    "start" : 1673536239769,
+    "stop" : 1673536240679,
+    "duration" : 910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d9a547ccf0ea01d",
+  "name" : "withValidCredential",
+  "time" : {
+    "start" : 1673536184921,
+    "stop" : 1673536185232,
+    "duration" : 311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73e3c75c0d067003",
+  "name" : "Verify Info Of Each Products Item On Cart Page",
+  "time" : {
+    "start" : 1673536222472,
+    "stop" : 1673536222814,
+    "duration" : 342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55d25992f845253a",
+  "name" : "verifyAddToCartButtonOnProductDetail",
+  "time" : {
+    "start" : 1673536211814,
+    "stop" : 1673536213955,
+    "duration" : 2141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8effc7b6b24f858",
+  "name" : "verifySortNameZToA",
+  "time" : {
+    "start" : 1673536208758,
+    "stop" : 1673536209040,
+    "duration" : 282
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38fc71d78b18b8fd",
+  "name" : "verifyInfoOnCheckOutStep2WhenCheckOutWithMoreProducts",
+  "time" : {
+    "start" : 1673536235827,
+    "stop" : 1673536237406,
+    "duration" : 1579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "184df9d8b1f36362",
+  "name" : "Verify When Clicking On CheckOut Button",
+  "time" : {
+    "start" : 1673536222817,
+    "stop" : 1673536222953,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f4304e1cded1354",
+  "name" : "verifyCopyWritingCorrect",
+  "time" : {
+    "start" : 1673536200141,
+    "stop" : 1673536200170,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,93 @@
+{
+  "uid" : "9d2d7b3de884fbd9",
+  "name" : "verifyRedirectOfAboutMenu",
+  "fullName" : "tests.NavigationTest.verifyRedirectOfAboutMenu",
+  "historyId" : "e10506e09b5845dda873da456907cd4b",
+  "time" : {
+    "start" : 1673536187728,
+    "stop" : 1673536193074,
+    "duration" : 5346
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1673536185485,
+      "stop" : 1673536187649,
+      "duration" : 2164
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeBrowser",
+    "time" : {
+      "start" : 1673536194580,
+      "stop" : 1673536194829,
+      "duration" : 249
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.NavigationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.NavigationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyRedirectOfAboutMenu"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Regression"
+  }, {
+    "name" : "suite",
+    "value" : "Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.NavigationTest"
+  }, {
+    "name" : "host",
+    "value" : "HoaNang"
+  }, {
+    "name" : "thread",
+    "value" : "24364@HoaNang.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d2d7b3de884fbd9.json",
+  "parameterValues" : [ ]
+}
